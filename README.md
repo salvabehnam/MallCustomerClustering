@@ -1,4 +1,4 @@
-Goal: Identify distinct customer segments (clusters) to enable targeted marketing strategies.
+Goal: Identify distinct customer segments to enable targeted marketing strategies.
 
 Approach:
 Data preprocessing (handle missing values, basic cleaning).
