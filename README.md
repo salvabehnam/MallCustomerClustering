@@ -2,7 +2,7 @@
 
 This project applies **unsupervised machine learning** techniques to segment mall customers based on their purchasing habits and demographic information. By identifying distinct customer groups, businesses can tailor marketing strategies to enhance customer engagement and sales.
 
-## 📌 Features
+## 📌 Features 
 
 - **Data Preprocessing**: Handling missing values and performing basic data cleaning.
 - **Clustering Algorithms**: Implementing K-Means and DBSCAN to identify customer segments.
